@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: --> 
 
-- 🔭 I’m currently working on Flowstack Startup (Early stage- Partenered with Microsoft Startup Founders Hub)
+- 🔭 I’m currently working on Flowstack Startup (Early stage Startup- Partenered with Microsoft Startup Founders Hub)
 - 🌱 I’m currently learning  Data Engineering concepts to Fuel my Gen AI Projects
 - 👯 I’m looking to collaborate on to develop Crazy Projects which holds Brainstroming Ideas
 - 🤔 I’m looking for help with tips or Referral for getting into the Internship to gain the Experience
