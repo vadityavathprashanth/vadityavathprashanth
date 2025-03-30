@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 # I am Prashanth Vadityavath
-!!! **vadityavathprashanth/vadityavathprashanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  **vadityavathprashanth/vadityavathprashanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: !!!
+Here are some ideas to get you started: --> 
 
 - 🔭 I’m currently working on Flowstack Startup (Early stage- Partenered with Microsoft Startup Founders Hub)
 - 🌱 I’m currently learning  Data Engineering concepts to Fuel my Gen AI Projects
